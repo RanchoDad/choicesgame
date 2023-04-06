@@ -9,9 +9,13 @@ main {
     text-align: center;
     justify-content: center;
     align-items: center;
-
 }
-
+.instructions {
+    display: flex;
+    width: 500px;
+    margin: auto;
+    
+}
 input {
     display: block;
     margin: 0 auto;
